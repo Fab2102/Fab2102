@@ -45,8 +45,8 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/Fab2102/Fab2102/output/snake.svg" alt="Snake animation" />
-
 ###
+
+<img src="https://raw.githubusercontent.com/Fab2102/Fab2102/output/snake.svg" alt="Snake animation" />
 
 ###
