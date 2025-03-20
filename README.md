@@ -46,7 +46,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Fab2102/Fab2102/output/snake.svg" alt="Snake animation" />
-
-###
